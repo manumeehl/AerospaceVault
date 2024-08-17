@@ -1,0 +1,1 @@
+[[Polytropic Index]] equals 1

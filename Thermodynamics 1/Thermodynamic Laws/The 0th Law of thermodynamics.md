@@ -1,0 +1,1 @@
+"If two objects have the same temperature, they are in thermal equilibrium"
