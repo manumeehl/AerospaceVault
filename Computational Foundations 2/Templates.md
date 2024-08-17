@@ -1,0 +1,1 @@
+Templates enable generic programming in C++

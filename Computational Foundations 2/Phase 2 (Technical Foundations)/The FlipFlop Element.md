@@ -1,0 +1,3 @@
+In computer science, a flip-flop is a fundamental digital circuit that is capable of storing a single binary digit (bit) of data. It is a bistable multivibrator, which means it has two stable states, and it can be used to store state information.
+
+The basic function of a flip-flop is to maintain a specific output state until the circuit is triggered to change that state. Flip-flops are the basic building blocks of sequential logic circuits, which are used in a wide range of digital devices, including computers, microcontrollers, and digital electronics.
