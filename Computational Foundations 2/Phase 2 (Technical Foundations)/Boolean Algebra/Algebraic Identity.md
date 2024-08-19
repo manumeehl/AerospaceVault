@@ -1,6 +1,4 @@
-The Algebraic identity describes the behaviour of a circuit similarly to a truth table, but in a single formula.
-
-Example: XOR Gate
+The Algebraic identity describes the behavior of a circuit similarly to a [[Truth Tables|Truth Table]], but in a single formula. Here is an example for an XOR Gate:
 
 **1. Truth Table:**
 

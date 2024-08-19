@@ -1,1 +1,0 @@
-Classes and Structs behave in the exact same way except one thing

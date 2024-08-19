@@ -10,7 +10,7 @@
 | char*         | getID()    |
 **Table 1:** Example of a class representated in UML
 
-##### Visibility and Scopes in OOP and UML-Diagrams
+##### Visibility and Scopes in [[Object Oriented Programming|OOP]] and UML-Diagrams
 Public
 - Accessible by all classes and objects
 - Can read, write and invoke behavior

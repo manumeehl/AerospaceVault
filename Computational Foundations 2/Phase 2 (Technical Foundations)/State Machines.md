@@ -1,3 +1,8 @@
+
+Contain:
+• A set of states
+• Initial state
+• Transition functions
 ### Mealy Machine
 > The output is determined by both the input and the current state
 

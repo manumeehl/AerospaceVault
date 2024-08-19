@@ -1,4 +1,4 @@
-##### Four principles of Object Orientation
+### The principles of Object Orientation
 
 __Encapsulation__
 Encapsulation is a mechanism hiding data and their internal representation from the outside world. Data is accessed only through accessor methods. In C++ Object Orientation, this is supported by the keywords private, protected, and public.
@@ -27,3 +27,19 @@ Specific Cases of Association:
 	 - eg. Class, Students
 - *Composition*: Childs cannot exist independently
 - eg. House, Room
+
+---
+
+### Generic programming
+"Writing code that works with a variety of types presented as arguments as long as those argument types meet specific syntatic and semantic requirements"
+
+##### Priority of functions
+1. How well do the parameter types match? -> Best match of evaluated type conversion losses
+2. Evaluation of return types similar to 1
+3. None-templated functions are preferred over templated ones.
+4. The more specialized function is chosen.
+
+##### Structs
+"User-define composite data structures"
+- Handy to organize data
+- Grouping of multiple members with different data types

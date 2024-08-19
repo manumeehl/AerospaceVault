@@ -2,6 +2,8 @@
 - Pictorial method of simplifying Boolean expressions
 - Good for circuit designs with up to 4 variables
 
+A Karnough Map can be created by putting all input combinations in [[Grey Codes]] order in their respective Row/Column. 
+
 ![[Pasted image 20240816152912.png]]
 
 Karnough Maps are useful for simplifying boolean expressions:
