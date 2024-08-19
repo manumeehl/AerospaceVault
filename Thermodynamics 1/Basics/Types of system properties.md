@@ -2,8 +2,8 @@
 - Independent of system mass or size
 - Letters usually written in lower case
 Examples:
-- Pressure
-- Temperature
+- [[Pressure]]
+- [[Temperature]]
 
 ### Extensive properties
 - Depend on system mass or size
