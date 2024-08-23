@@ -1,11 +1,11 @@
 ### Components
 Variables are declared in three components:
-1. Types
+1. [[Types]]
 2. Identifiers
 3. Value
 
 ### Scopes
-There are three types of scopes for variables:
+There are three types of scopes for variables within their [[Namespaces|Namespace]]:
 
 *Global Scope*:
 - Variable defined outside of any scope
@@ -19,3 +19,4 @@ There are three types of scopes for variables:
 *Local Statics*:
 - Availability like a local variable
 	- Will __not__ be re-created
+
