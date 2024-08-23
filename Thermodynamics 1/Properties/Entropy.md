@@ -1,3 +1,13 @@
+### General definition
+Quantifiable Physical Property associated with:
+- State of Disorder
+- Randomness
+- Uncertainty
+
+### Thermodynamic Aspects
+>Related to how unavailable __thermal__ energy is to be converted into __mechanical__ energy
+
+
 Extensive scalar property __S__
 $$\delta S = \frac{\delta Q}{T}$$
 - Entropy doesn't show amount of energy, but how useful it is.
@@ -7,3 +17,6 @@ $$\delta S = \frac{\delta Q}{T}$$
 
 *Energy always goes from being concentrated to being dispersed.*
 *Entropy moves with heat, but not with work*
+
+Quantifiable Physical Property associated with:
+- State of Disorder

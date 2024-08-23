@@ -1,3 +1,3 @@
 #Method
-Degrees of freedom = components - phases + 2
+Degrees of freedom = components - [[Phase|phases]] + 2
 $$n = ß - d + 2$$

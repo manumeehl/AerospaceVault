@@ -1,0 +1,1 @@
+>In fluid dynamics and thermodynamics, a stagnation point is a point in a flow field, where the local velocity of the fluid is zero.

@@ -16,4 +16,6 @@ $$\delta U = Q - W$$
 With infinitesimal process speed and conservation of energy this results in 
 $$\delta Q = \delta U + \delta W $$
 
-Special process cases
+Consequences of the first Law:
+![[adiabatic_first_law.png]]
+![[cyclic_first_law.png]]
