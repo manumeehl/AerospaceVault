@@ -1,5 +1,3 @@
 #Law
-"If two objects have the same temperature, they are in [[Thermodynamic Equilibrium]]"
-
-- Defines the property [[Temperature]]
-- If two (or more) bodies are in thermal equilibrium, they have the same temperature
+### General
+If two bodies are in contact with each other through a thermally conductive boundary their respective temperatures will normalise to a certain common [[Temperature|temperature]]. If the two objects have the same temperature, they are in [[Thermodynamic Equilibrium]].

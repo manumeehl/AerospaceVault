@@ -1,9 +1,10 @@
 #Knowledge 
-**Quasi-static**: idealized, infinitesimally slow, system remains in [[Thermodynamic Equilibrium|equilibrium]], reversible
+This is an overview of different process types and how they behave in the pV-Diagram. Knowing these types is very important as the derived assumption can make calculations significantly easier.
 
-| Process name | Constant property         | PV-Diagram                  | Polytropic index
-| ----------        | ---------                          | ---------                        | ---------
-| **Isobaric**         | pressure **p**                      |     horizontal line          | **n = 0**
-| **Isochoric**       | volume **v**                        |     vertical line               | **n = $\infty$**
-| **Isothermal**    | temperature **t**                |     hyperbolic curve       | 
-| **Isentropic**     | adiabatic, [[Reversible process|reversible]] **V**    |     steep hyp. curve       | **n = cp/cv = k**
+| Process Name                           | Constant Property | pV-Diagram             | Polytropic Index |
+| -------------------------------------- | ----------------- | ---------------------- | ---------------- |
+| __[[Isobaric Process\|Isobaric]]__     | [[Pressure]] p    | horizontal line        | $n = 0$          |
+| __[[Isochoric process\|Isochoric]]__   | [[Volume]] V      | vertical line          | $n = \infty$     |
+| __[[Isothermal process\|Isothermal]]__ | [[Temperature]] T | hyperbolic curve       | -                |
+| __[[Isentropic Process\|Isentropic]]__ | [[Entropy]] s     | steep hyperbolic curve | $n = k$          |
+A process is reversible if it is [[Isentropic Process|isentropic]].
