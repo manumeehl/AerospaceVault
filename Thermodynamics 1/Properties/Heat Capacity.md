@@ -10,14 +10,13 @@ Heat is path dependent → Process of heat transfer has to be specified
 ### Special Cases
 
 Specific heat capacity at constant __volume__:
-$$c_v = (\frac{\partial u}{\partial T})_v = (\frac{\partial q}{\partial T})_v$$
+$$c_v = \left(\frac{\partial u}{\partial T}\right)_v = \left(\frac{\partial q}{\partial T}\right)_v$$
 Specific heat capacity at constant __pressure__:
-$$c_p = (\frac{\partial q}{\partial T})_p = (\frac{\partial h}{\partial T})_p$$
+$$c_p = \left(\frac{\partial q}{\partial T}\right)_p = \left(\frac{\partial h}{\partial T}\right)_p$$
 ### Useful processes
 
-1. Heat transfer at constant volume (𝐶 → 𝐶𝑣)
-2. Heat transfer at constant pressure (𝐶 → 𝐶𝑝)
-
+1. Heat transfer at constant volume ($C \rightarrow C_v$)
+2. Heat transfer at constant pressure ($C \rightarrow C_p$)
 ### Relevance
 Although $c_v$ and $c_p$ are based on calculations in isochoric or isobaric processes, they should be thought of as thermodynamic properties of substances that __only__ depend on the state.
 

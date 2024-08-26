@@ -1,4 +1,4 @@
-
+#Knowledge 
 **Quasi-static**: idealized, infinitesimally slow, system remains in [[Thermodynamic Equilibrium|equilibrium]], reversible
 
 | Process name | Constant property         | PV-Diagram                  | Polytropic index
