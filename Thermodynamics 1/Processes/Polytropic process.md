@@ -11,4 +11,4 @@ Todo: How does this relate in different scenarios?
 ### Work in a polytropic process
 For general polytropic processes it holds that
 $$W = \frac {P_2V_2 - P_1V_1}{1-n}$$
-For the special case of an [[Isothermal process]] with [[Polytropic Index]] **n=1** this relation becomes $$W = pV \cdot ln(\frac{V_2}{V1})$$
+For the special case of an [[Isothermal process]] with [[Polytropic Index]] **n=1** this relation becomes $$W = pV \cdot ln\left(\frac{V_2}{V1}\right)$$

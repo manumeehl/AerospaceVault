@@ -4,4 +4,20 @@ An [[The Ideal Gas|ideal gas]] is an idealised model of gases where all gases sh
 
 ----
 ### The Ideal Gas Law
-Under the assumptions of an [[The Ideal Gas|ideal gas]] (low [[Pressure|pressure]] or high [[Temperature|temperature]]), it holds that $$PV = nRT$$
+__Molar Form:__
+$$
+pv_m = R_m T \iff pV = nR_mT
+$$
+__Mass Form:__
+$$
+pv = RT \iff pV = mRT
+$$
+With $R_m$ being the universal gas constant: 
+$$
+R_m = 8,314 \frac{J}{mol \cdot K}
+$$
+And $R$ being the specific gas constant: 
+$$
+R = \frac{R_m}{M}
+$$
+$M$ being the [[Molar Mass|molar mass]].
