@@ -1,0 +1,1 @@
+This folder is meant as a beginners guide to git in terminal.

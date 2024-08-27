@@ -1,0 +1,1 @@
+reveals your current unstaged, uncommitted and unpushed changes
