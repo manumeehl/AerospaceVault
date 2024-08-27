@@ -1,6 +1,6 @@
 #Property
 
->The (specific) heat capacity of a substance is defined as amount of heat that needs to be transferred to change the temperature by 1 Kelvin, or in its specific form, for 1 Kelvin and 1 kilogram.
+The (specific) heat capacity of a substance is defined as amount of heat that needs to be transferred to change the temperature by 1 Kelvin, or in its specific form, for 1 Kelvin and 1 kilogram.
 
 Character: $C$
 

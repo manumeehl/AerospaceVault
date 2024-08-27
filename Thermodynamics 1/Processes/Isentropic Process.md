@@ -7,6 +7,6 @@
 - Compression in [[Compressor|Compressors]] and [[Turbine|Turbines]] of Aero Engines
 
 ### Useful formulas
-$$\frac{p_2}{p_1} = (\frac{T_2}{T_1})^{\frac{y}{y-1}}$$ and
-$$\frac{T_2}{T_1} = (\frac{v_2}{v_1})^{y-1}$$
+$$\frac{p_2}{p_1} = \left(\frac{T_2}{T_1}\right)^{\frac{y}{y-1}}$$ and
+$$\frac{T_2}{T_1} = \left(\frac{v_2}{v_1}\right)^{y-1}$$
 
