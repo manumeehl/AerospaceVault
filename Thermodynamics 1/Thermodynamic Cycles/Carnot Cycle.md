@@ -10,3 +10,4 @@
 ### Efficiency of the Carnot Cycle
 
 $$\eta_C = 1 - \frac{T_{out}}{T_{in}}$$
+
