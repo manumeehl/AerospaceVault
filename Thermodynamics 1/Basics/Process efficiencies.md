@@ -1,7 +1,7 @@
 The [[Efficiency]] of a process is related to its reversibility. (closer to reversibility -> more efficient)
 *Full reversibility is an idealization*
 
-$$0 \le Isentropic Efficiency \le 1$$
+$$0 \le \eta_{is} \le 1$$
 
 Performance of a cycle: Energy input or output
 

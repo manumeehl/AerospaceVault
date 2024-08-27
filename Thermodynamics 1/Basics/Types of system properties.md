@@ -1,14 +1,14 @@
 ### Intensive properties
-- Independent of system mass or size
+- Independent of a systems mass or quantity
 - Letters usually written in lower case
-Examples:
+__Examples:__
 - [[Pressure]]
 - [[Temperature]]
 
 ### Extensive properties
-- Depend on system mass or size
+- Mass or amount of substance dependent
 - Letters usually written in upper case
-Examples
+__Examples:__
 - Mass
 - Volume
 - Internal Energy
