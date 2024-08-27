@@ -11,7 +11,12 @@ where:
 - $\Delta E_{ex}$ = Change of internal energy
 
 [[Internal Energy]] = [[Heat (transfer)]] - [[Work]]
-$$\delta U = Q - W$$
+$$\Delta U = Q - W$$
+or:
+$$\Delta U = \Delta Q + \Delta W = \Delta Q - p * \Delta V$$
+- $\Delta Q$ = Change of Thermal Energy
+- p = presure
+- $\Delta V$ = Chagne in Volume
 
 With infinitesimal process speed and conservation of energy this results in 
 $$\delta Q = \delta U + \delta W $$
