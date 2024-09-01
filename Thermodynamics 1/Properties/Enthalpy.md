@@ -5,5 +5,5 @@ Enthalpy = [[Internal Energy]] + [[Pressure]] * [[Volume]]
 $$H=U+ p\cdot V$$
 
 
-For mass flows:
+For mass flows, the enthalpy can also be determined by the [[Mass]], [[Heat Capacity|Specifc Heat Capacity]] and [[Temperature]]:
 $$\dot m * (h_1 + h_2 + h_n) = \dot m * c_p * (T_1 + T_2 + T_n)$$
