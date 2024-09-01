@@ -8,3 +8,5 @@ This is an overview of different process types and how they behave in the pV-Dia
 | __[[Isothermal process\|Isothermal]]__ | [[Temperature]] T | hyperbolic curve       | -                |
 | __[[Isentropic Process\|Isentropic]]__ | [[Entropy]] s     | steep hyperbolic curve | $n = k$          |
 A process is reversible if it is [[Isentropic Process|isentropic]].
+
+![[Cycles Comparison.png]]
