@@ -1,8 +1,6 @@
 #Cycle
 
-# 
-
-Stirling cycle in thermodynamics
+# Stirling cycle in thermodynamics
 
 The Stirling cycle is a thermodynamic cycle used in Stirling engines and coolers, which operate on a closed regenerative heat engine principle. It consists of four processes:
 

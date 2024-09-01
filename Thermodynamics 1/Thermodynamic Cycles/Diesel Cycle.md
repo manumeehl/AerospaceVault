@@ -9,7 +9,9 @@ Fuel & Air Mixture + Spark Plug -> Thermal Energy -> Mechanical Energy
 - No spark plugs
 - Fuel auto-ignites above a certain pressure
 - No instantaneous combustion, gradual fuel flow- and ignition
--
+
+![[Diesel Cycle.png]]
+
 ### Four-Stroke-Process
 Stroke 1: Compression Stroke
 Stroke 2: Power Stroke
